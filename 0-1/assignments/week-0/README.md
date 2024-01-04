@@ -1,1 +1,0 @@
-#  Zerodha Clone for Educational Purposes
