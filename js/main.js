@@ -4,7 +4,6 @@ document.addEventListener("click", (e) => {
 
 	let currentDropdown;
 	if (isDropdownButton) {
-		console.log("Hare Krishna");
 		currentDropdown = document.querySelector(".dropdown-menu");
 		currentDropdown.classList.toggle("active");
 	}
