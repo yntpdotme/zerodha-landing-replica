@@ -109,8 +109,8 @@ This project meticulously replicates the Zerodha website, crafted as part of Wee
 
 6. **Build the project for production:**
    `bash
- npm run build
- `
+npm run build
+`
    <br>
 
 ## 📋&nbsp;&nbsp; Usage Instructions

@@ -4,12 +4,14 @@
   "description": "A meticulous replication of the Zerodha website, created by Harkirat Singh for the 100xDevs Cohort's Week-0 assignment.",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html",
+    "formate": "npx prettier --write ."
   },
   "keywords": [],
   "author": "Akash Kadlag",
   "license": "ISC",
   "devDependencies": {
-    "parcel-bundler": "^1.12.5"
+    "parcel-bundler": "^1.12.5",
+    "prettier": "^3.4.0"
   }
 }
